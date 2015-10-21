@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/left_gray_arraw" android:state_enabled="false"/>
+    <item android:drawable="@drawable/left_blue_arraw" android:state_enabled="true"/>
+
+</selector><!-- From: file:/C:/Users/chf/AndroidStudioProjects/Year-MonthCalendar/app/src/main/res/drawable-hdpi/left_button_select_check_year.xml -->

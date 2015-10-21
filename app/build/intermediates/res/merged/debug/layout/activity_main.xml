@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/month"
+        android:textSize="20sp" />
+
+    <com.chf.YearMonthCalendar.View.RollingCalendar
+        android:id="@+id/rolling_calendar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tv"
+        android:layout_marginTop="26dp" >
+    </com.chf.YearMonthCalendar.View.RollingCalendar>
+
+</RelativeLayout><!-- From: file:/C:/Users/chf/AndroidStudioProjects/Year-MonthCalendar/app/src/main/res/layout/activity_main.xml -->

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="color_black">#000000</color>
+    <color name="color_red">#fb0000</color>
+    <color name="color_red_text">#b50029</color>
+    <color name="color_white">#ffffffff</color>
+    <color name="color_welcome_bg">#efefef</color>
+    <color name="color_wait_task_seclect_bg">#dadada</color>
+    <color name="color_null">#0000</color>
+    <color name="color_gray_light">#f3f3f3</color>
+    <!-- 常用功能没有权限文字 颜色值 -->
+    <color name="color_text_no_smarty_authority">#d5d5d5</color>
+    <!-- 标题的颜色值 -->
+    <color name="title_color_red">#B50029</color>
+    <!-- 最新消息组件提示文字颜色值 -->
+    <color name="tips_color">#ea5532</color>
+    <!-- <color name="tips_color">#707070</color> -->
+    <color name="login_text_color">#707070</color>
+    <color name="login_text_hint_color">#a8a8a8</color>
+    <color name="login_red_text_color">#a10822</color>
+    <color name="welcom_gray_line">#c8c7c7</color>
+    <color name="welcom_remind_red_word_color">#bd1731</color>
+    <color name="welcom_review_business_word_color">#a74e54</color>
+    <color name="welcome_left_group_selected_color">#a80026</color>
+    <color name="query_text_color">#b6263d</color>
+    <color name="query_result_detail_gray_line">#dcdcdc</color>
+    <color name="query_result_detail_text_bg">#fcfbfb</color>
+    <color name="text_gray">#bcbcbc</color>
+    <color name="query_result_detail_text_color">#777777</color>
+    <color name="pullrefresh_text_color">#303030</color>
+    <color name="three_level_select_text_color">#b2656e</color>
+    <color name="three_level_unselect_text_color">#242424</color>
+
+    <drawable name="three_level_select_bg_color">#f1f1f1</drawable>
+    <drawable name="three_level_unselect_bg_color">#fbfbfb</drawable>
+    <drawable name="comm_selecte_pop_bg_color_selected">#f1f1f1</drawable>
+    <drawable name="comm_selecte_pop_bg_color_normal">#fbfbfb</drawable>
+    <drawable name="transparent_color">#00000000</drawable>
+    <!-- 交易关系人管理中  标题下 网银客户端号 &企业名称 字体 -->
+    <color name="payee_mgr_title2">#303030</color>
+    <!-- 输入框前的提示 -->
+    <color name="text_input_hint">#bcbcbc</color>
+
+    <!-- 菜单 -->
+    <!-- 主菜单背景色 -->
+    <drawable name="main_menu_bg">#dadada</drawable>
+    <!-- 顶部菜单条背景色 -->
+    <drawable name="menu_header_bg">#b50029</drawable>
+    <!-- 二级、三级菜单 中的分割线背景 -->
+    <drawable name="menu_second_list_divider">#bcbcbc</drawable>
+
+    <!-- 一级菜单 菜单名颜色 -->
+    <color name="menu_item_first_level_name_tv_color">#000000</color>
+    <!-- 二级三级菜单  头部text颜色 -->
+    <color name="menu_item_second_level_header_tv_color">#000000</color>
+    <!-- 二级菜单的 文字 颜色 -->
+    <color name="menu_item_second_level_name_tv_color">#000000</color>
+    <!-- 三级菜单的 文字 颜色 -->
+    <color name="menu_item_three_level_name_tv_color">#000000</color>
+    <!-- 菜单  结束 -->
+    <!-- 单笔付款和单笔收款 成功反显界面 中间的分割线颜色值 -->
+    <color name="pay_success_segmentation_line">#bfc0c2</color>
+    <!-- 表格线 -->
+    <color name="table_frame">#b5b5b6</color>
+    <!-- 按钮 -->
+    <!-- 蓝色提交按钮背景色 -->
+    <color name="bt_color_blue">#007aff</color>
+
+    <!-- 横向滑动的表格控件用到的颜色 -->
+    <!-- 可以横向滑动的表格的title背景颜色 -->
+    <color name="table_title">#dadada</color>
+    <!-- 可以横向滑动的表格内容背景颜色1 -->
+    <color name="table_listview_bg_1">#efefef</color>
+    <!-- 可以横向滑动的表格内容背景颜色2 -->
+    <color name="table_listview_bg_2">#f9f9f9</color>
+
+    <!-- 可以横向滑动的表格的title背景颜色 -->
+    <color name="dark_table_title_bg">#4e4d4d</color>
+    <!-- 可以横向滑动的表格内容背景颜色1 -->
+    <color name="dark_table_listview_bg_1">#5f5f5f</color>
+    <!-- 可以横向滑动的表格内容背景颜色2 -->
+    <color name="dark_table_listview_bg_2">#525151</color>
+
+    <!-- 右侧dialog  table的边框 -->
+    <color name="side_table_frame_bg">#bcbcbc</color>
+    <!-- 右侧dialog  table的name -->
+    <color name="side_table_name_bg">#efefef</color>
+    <!-- 右侧dialog  table的value -->
+    <color name="side_table_value_bg">#fcfcfc</color>
+
+    <!-- 菜单中消息展开后    暗色北京 -->
+    <color name="menu_msg_bg_drak">#9f9f9f</color>
+    <!-- 深灰色字体颜色 表现为黑色 -->
+    <color name="text_color_dark_gray">#333333</color>
+    <!-- 委托中的蓝色字体 -->
+    <color name="remit_blue_text">#8ca4f2</color>
+    <!-- 页面深灰背景 -->
+    <color name="dark_gray_bg">#ebebeb</color>
+    <color name="common_text_color">#424141</color>
+    <color name="cancel_radiobutton_select">#ffffff</color>
+    <color name="cancel_radiobutton_unselect">#007aff</color>
+    <!-- item字体灰色色值 -->
+    <color name="item_gray_text_color">#898989</color>
+    <!-- 深灰字体 -->
+    <color name="rapid_gray_text_color">#727171</color>
+    <!-- 深蓝字体 -->
+    <color name="rapid_dark_blue_text_color">#6988c6</color>
+    <!-- 编辑框提示语颜色 -->
+    <color name="rapid_edit_text_hint_text_color">#b5b5b6</color>
+    <!-- 灰色字体424141 -->
+    <color name="color424141">#424141</color>
+    <!-- a3a3a3 -->
+    <color name="colora3a3a3">#a3a3a3</color>
+    <color name="rapid_background">#ffffff</color>
+    <color name="color_939393">#939393</color>
+    <!-- 对公红色框 -->
+    <color name="color_ea5532">#ea5532</color>
+    <!-- 对私绿色框 -->
+    <color name="color_5ed272">#5ed272</color>
+    <color name="login_bound">#c5c5c5</color>
+    <color name="login_select_bg">#b50029</color>
+    <color name="login_normal_bg">#f1f0f0</color>
+    <!-- 投资理财item的name颜色值 -->
+    <color name="color_cccccc">#cccccc</color>
+    <!-- 绿色字体 -->
+    <color name="color_4cd963">#4cd963</color>
+    <!-- 红色字体 -->
+    <color name="color_fd634f">#fd634f</color>
+    <!-- 灰色字体 -->
+    <color name="color_calendar_gray">#66000000</color>
+
+</resources>
